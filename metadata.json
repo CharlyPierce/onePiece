@@ -1,0 +1,6 @@
+{
+  "name": "Motivador y Desmotivador One Piece AI",
+  "description": "Aplicación de motivación y desmotivación en español basada en personajes de One Piece (Luffy, Robin, Zoro, Hancock) con diálogos dinámicos generados por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
